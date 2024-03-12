@@ -1,0 +1,5 @@
+# Gradle
+.gradle/
+build/
+bin/
+data/stav.json
